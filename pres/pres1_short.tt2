@@ -1,0 +1,3 @@
+[% INCLUDE tmpl/header.tt2 title = "Presentation 1 (short)" author = "Andreas Krennmair" date = "April 28, 2012" %]
+[% INCLUDE slides/baz.tt2 %]
+[% INCLUDE tmpl/footer.tt2 %]
