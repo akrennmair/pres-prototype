@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>[% title %] | [% author %]</title>
+<meta charset="utf-8">
+<script src="js/slides.js"></script>
+<body style="display: none">
+<section class="slides layout-regular template-default">
+<article>
+	<h1>[% title %]</h1>
+	<p>
+	[% author %]
+	<br>
+	[% date %]
+	</p>
+</article>

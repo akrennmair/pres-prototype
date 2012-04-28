@@ -1,0 +1,13 @@
+<article>
+<h3>Code</h3>
+<p>Some code:</p>
+<pre>
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+</pre>
+</article>
